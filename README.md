@@ -1,1 +1,1 @@
-# -design-patterns-for-embedded-system-in-c
+# design-patterns-for-embedded-system-in-c
