@@ -25,8 +25,7 @@ int main() {
 
 	if( *pDevice & CHECK_ERROR ) {
 		emergencyShutDown();
-		//abort();
-		return 0;
+		abort();
 	} else {
 		*pDevice &= RUN;
 		printf("Device bits %X \n", *pDevice);
