@@ -1,3 +1,4 @@
+/*auther:kuanchang wang*/
 #include<stdlib.h>
 #include<stdio.h>
 
